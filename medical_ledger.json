@@ -1,0 +1,600 @@
+[
+    {
+        "index": 1,
+        "timestamp": 1768480907.232858,
+        "data": {
+            "info": "Genesis Block"
+        },
+        "previous_hash": "0",
+        "hash": "15913feaaa007bbfa1a91afe2646594a512af9445247249295769ef441e56f41"
+    },
+    {
+        "index": 2,
+        "timestamp": 1768480978.0240695,
+        "data": {
+            "op": "ADD",
+            "id": "12345",
+            "name": "Ram",
+            "diag": "TAMPERED_DIAGNOSIS",
+            "dr": "0ac263aa",
+            "sig": "468a27d7af358c5cfdefbeca49901a6ec3f4fc9f49b87cbd44cfa9327a7cf6d1652aa6d45f3d95fd3474883e345eee4c8389725f73fb1dfef7ee6290c30be2402b41b2ad3f5287f0f1a98a31a5bcbc0abe7c56c87c454943129485194b9980ab624f62cc76dfb0cb11edf45e0d10a0979247e05e5da9aec90c228fa7df5c95fff7002c2f563534938dd100cfa26ebe731af953c12111195151c9871d35c3cdea6c73339e43eee711248a4a98e9d3ff3bc6f4301b16690cfcc950c7ea1520515a684f1c5d7b88f5ce0c4605ccf06da6be88a7d6978c02f2f1ac6de11aa65d0afb7b582bf2e5dbdff87b487b02afb361716c16a80803ea93341c2f9d05ff3911ea"
+        },
+        "previous_hash": "15913feaaa007bbfa1a91afe2646594a512af9445247249295769ef441e56f41",
+        "hash": "30904c2bc2c70abf34222b15d1e5f4727c7c28dbedc7d1003ca5438a3376f28d"
+    },
+    {
+        "index": 3,
+        "timestamp": 1768645667.5366912,
+        "data": {
+            "op": "ADD",
+            "id": "344567",
+            "name": "sam",
+            "diag": "headache",
+            "dr": "d0803db7",
+            "sig": "208a0eb89785d1687095ea37cb24a73bafe9007c9826a9d73083e83b0ca15fd4f1fa31c5515b066848700eff237a8cce12f0b2b92dd1dc7d5e3293e9d9d2a3a4d88ac78f136158a428f74305ff04d0d547c032285b176b6f2096cdeedaf0108364f7513a0b9cf9e769deb84fcb7b1b05a7c63c78d125e735b67a13623838ea1987973b4ca362c57c12d51dfa1c338cf94baf5d13d7ef648da7d1b8e713870a6f91f94ee1d255438babcccc021ae45968be78ecb21d1fc25dca3813aba0f0c3e234e7e2377c2d9b1581a0868eb3d5092c75908be93ef32b599193046a82de31e2c4ee75fc5a623ac1bc3a5364ebeea012d8b3d6899a5eb3acfb0373d8cf834902"
+        },
+        "previous_hash": "30904c2bc2c70abf34222b15d1e5f4727c7c28dbedc7d1003ca5438a3376f28d",
+        "hash": "bc21b3822593c2b073c4ec5a320712827d324f92c29543d83d83102134722001"
+    },
+    {
+        "index": 4,
+        "timestamp": 1768646081.8364637,
+        "data": {
+            "op": "DELETE",
+            "id": "344567",
+            "dr": "803e5432",
+            "sig": "36c8e25e02c12a0252bfd11b4a5d9bb62bd39eb0e42c82fdfe2be8e60a60cc8983e109f5864bbc2521d41e8782d6d410870188f541183acb072b4682993b6d38f58b4974fa0f8d86287e272c99eb3da5e813f591191307174988b335f68b078a40235dfd64d84da50403be4f0bc434adf69df994cf060499a110d9e6fe5d1d822a9179b2f0533e0f8ecabd42c4fd4b722a0974859bd5290447687acc9148cbe2c256a7791be1c5b631980a3901ecb1c565cb2ecfe725c93539f5052e2ae0c13c81c800fb0753ffc04e0b2bc89dc29f6e549a6ca6ad61140d1ee0f0d1088b7e997f3c2112bc6f43fe5a65abdf494543fb077906018f38402aece7f3009de77709"
+        },
+        "previous_hash": "bc21b3822593c2b073c4ec5a320712827d324f92c29543d83d83102134722001",
+        "hash": "37f4ce4e4f7e5f0a2604d85884aa50dc7a1dc094b2ecf0b8ccfa09c1dcc43e19"
+    },
+    {
+        "index": 5,
+        "timestamp": 1769030295.6785831,
+        "data": {
+            "op": "DIAGNOSIS",
+            "id": "PT001",
+            "name": "Ram",
+            "diag": "fever",
+            "notes": "",
+            "doctor": "1fc5c9fb",
+            "signature": "2aa0e24209000ac0366c59f8be43553361034a7910f73e8257e087c98f2f921ea8f49e136effecd0b9b036e024ed68b55c677f886721a761a682d93def7cf88fcfbbefe91df82f5c7f8b7f264de0a1ac7e0bfffb0d2ea9590db5a2492dcad0a5ae87337d321869d33d4452e9c74f5129e1efb888887ae9d23157c5fcf2374444633220d6e2679b03a6087d1e6b37e02825fa347cd8d09d508a6170d52977feb05cff03ee2e9e003ed7093bd644270c29d5c67f1d58df6015222199a3a7a4bdde31063a2b42ab7da7d7e014aa8e7be8c1161358bdd4df9804252973d10c1c183c36d52745350be56d70b4d073d95e89f6a9f24bce3f8f294a5e6f06d363bea9aa"
+        },
+        "previous_hash": "37f4ce4e4f7e5f0a2604d85884aa50dc7a1dc094b2ecf0b8ccfa09c1dcc43e19",
+        "hash": "93152035b8474c9b1eb70c34d5bd631233f39bf4d04916320d178e4d3377b13f"
+    },
+    {
+        "index": 6,
+        "timestamp": 1769362136.0440755,
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "PT001",
+            "doctor": "Ram",
+            "action": "WRITE"
+        },
+        "previous_hash": "93152035b8474c9b1eb70c34d5bd631233f39bf4d04916320d178e4d3377b13f",
+        "hash": "ed8d1c19e43f86663b026bd7d6ac900241014f0d14be8b27532c110d172f99c8"
+    },
+    {
+        "index": 7,
+        "timestamp": 1769363322.5385244,
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "1234",
+            "doctor": "38e1af7c",
+            "action": "WRITE"
+        },
+        "previous_hash": "ed8d1c19e43f86663b026bd7d6ac900241014f0d14be8b27532c110d172f99c8",
+        "hash": "4a9c4ef87c692d6c61d296593ba6a7868abbe1a954ec8a30fadc5cc29b9ac5b0"
+    },
+    {
+        "index": 8,
+        "timestamp": 1769363531.7117717,
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "12345",
+            "doctor": "36eebecd",
+            "action": "WRITE"
+        },
+        "previous_hash": "4a9c4ef87c692d6c61d296593ba6a7868abbe1a954ec8a30fadc5cc29b9ac5b0",
+        "hash": "d37fa38440808f8c22b74da5223fe137ea5363ff7fa38cc82d3a726977d7e504"
+    },
+    {
+        "index": 9,
+        "timestamp": 1769363565.4459324,
+        "data": {
+            "op": "DIAGNOSIS",
+            "patient": "12345",
+            "doctor": "36eebecd",
+            "condition": "Fever",
+            "rx": "Paracetamol",
+            "sig": "661d4896fa8cf1567fbb4d6ff18dec97a3ba580a5f5f301faf8aa55e4ce2cc779ff759a620895499a5736111061ec84c364d0246ca7568d776216ffd88b7e3bbe2149b4c086731dd99d2f116a10877def9c27b4091f67a1d62639b4e1b4931f949ed229f6283cfa04cf6b649bebbd550dbd87f99a8eae0f45ffdf96b30facd2df3aa6d60282bc09a934bbeb0906137cd4075173652349370832048939da6786ac6adc76cdefed4a5356ef8c20be6fef680923bbd541f6a9df34145e6fcf3680c853104e92aed4fbd2b633937c10cdd2ffaa61baa857bbf0ac190b0a69692294a3392758a30917c46ca3ed77cd0d2e0ef4b0e7a3de17d14348f25e8b07940498a"
+        },
+        "previous_hash": "d37fa38440808f8c22b74da5223fe137ea5363ff7fa38cc82d3a726977d7e504",
+        "hash": "8da63b7e2752f8d6cbb7b4ea5d3482110f6a4a97e327a26225f858370e56f2d4"
+    },
+    {
+        "index": 10,
+        "timestamp": "2026-01-27 20:12:03",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "Ram",
+            "doctor": "DOC-ALICE-001",
+            "action": "WRITE",
+            "sig": "b34442345cd282e6afdcb38463a8056f022bb0f9cde7bf3468ca6c3aa2fbbca8c5da56ef7a2871363c9f8cb9b23134abe84931bfbee28bd55c7441266eddb22bbc6e52cab3cbcf3f00d03ef002decf81507ed62d5533e31ab7da59da136f1e3499ec97e5bdc09722897f142ea70e046aa8532a1126b79f15479a0ef68ce35eaeee2e3b024a761106bf6a9926f6fafc0ab7c46d9b88057c8c86d788e8459622674992023c2ef034adfa227abaf5c8aa955b201cf8e30876b33fbd16446b6af25246b0767bd7353fe79c070c637cfcd4d83d838da78715b8194cc3bc3ebcb1a3e18613eb8ddc70810dee9c20c60094e7d5623b22b35995e708c26205a790a588e3"
+        },
+        "previous_hash": "8da63b7e2752f8d6cbb7b4ea5d3482110f6a4a97e327a26225f858370e56f2d4",
+        "hash": "fa3304a9f08389bd1e55ef5d30471cf1bd143e881b3699b5c4db22ad3e403d66"
+    },
+    {
+        "index": 11,
+        "timestamp": "2026-01-27 20:12:20",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "Ram",
+            "doctor": "DOC-BOB-002",
+            "action": "WRITE",
+            "sig": "039b2418aad15a67df97a0f53b2e79c64e2c8d158f126fd5fd7680edc68dde1b2cb542aa280fec0540d2f50d55ec10216c5de6ad0c8adb58f0e9dde159bb261c3ab56f20adb097717d9e82fa80c2ee2eb61d938dee645407c7d611c3b20ee85063e458b733ad120b55b3d697ccf1c9172218ac000e32557024cebe2fa3a998960a575a67cfd01f0bb8b11c7016d7c94b4ce3a0bab48aef04d32b37e4cd174b7719473452a3fb2c77d2f017a535d7a6aa27d996292555cbc1fbefaf448af461a34f26ca7cd8101e1fa900fdc1a0268b2b16dddcec25df8baf0c1f47037fcc5c4ee135dae9beb2426132e9991c106f57ed7dba767c0b20d332873da889050dd86e"
+        },
+        "previous_hash": "fa3304a9f08389bd1e55ef5d30471cf1bd143e881b3699b5c4db22ad3e403d66",
+        "hash": "e769bab2653aafadb3df2ae849ab45e06f05e727273fbc31ebba8b7c02210fd3"
+    },
+    {
+        "index": 12,
+        "timestamp": "2026-01-27 20:14:02",
+        "data": {
+            "op": "DIAGNOSIS",
+            "patient": "Ram",
+            "doctor": "DOC-BOB-002",
+            "doctor_name": "Dr. Bob Jones (General)",
+            "condition": "Fever",
+            "rx": "paracetamol, antibiotic",
+            "sha256_hash": "457b209fb91307960a2886f5b75688b8159f3d94d752a28919f0e87d6e199f14",
+            "signature": "acd84adf020a9575878dd54c1d34cdea36d27c296cc3bff15a9435054192c1ac873da1f5f03f67c241029a0942f6b6d878e161125bc52d0eb4eb965edfe7dfe5d8df4f2270771f71bee1ce034f49223cc29a139b8fe599286c4afa9ce3f5f507c2c2a04a89854e8a30786b56ff0202cf716c0d2c5baff36757c65fb816cff7e44ac121f6b82a9b5644e4b66c04428f29f9e0bdfdc79a8260064dd5b012edc6ad5be719bf2180d7c1ca1dd82dbb0a79c127c349f93d739118896d50b5b144792d86856e4d879297778a44927e9734834d8dcb5a9b5859b3a6a7df0ace42a40374e89d20081f02ed498f874bfa3b596a97df5b82c2488ce0f90951549b4a5c5987"
+        },
+        "previous_hash": "e769bab2653aafadb3df2ae849ab45e06f05e727273fbc31ebba8b7c02210fd3",
+        "hash": "c882dc9c4524f26ad17926d6d75179f13f0e019e613efb7019e9cd11755c2040"
+    },
+    {
+        "index": 13,
+        "timestamp": "2026-01-27 22:33:41",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "Ram",
+            "doctor": "DOC-ALICE-001",
+            "action": "WRITE",
+            "sig": "8b66801477e8613319a57dce4c56a7b217051f37e4554abb815c761d86b16269c0a3a3c48ebe234cfbd2cecc3b738918e78e32248e8fb8b14717b0b4d379b9149699a8958de970602ce0f5699acac826adcfd5cee8ca24c6d422f056994e9b9d0ccf2ae3f53cb11aba810a1c581bc7908c80dd97b732d222383c8bceea1b977c4cf40adf9e7c0814836dcf8586598eb62535310dfd8c81fc523423fac0a319930f1f77d829712f720ba5bc139f61a2d8d50ce317818ca5d7fac12afee11723db8fb57fa7769f39309a176147242dc38217f09bb631253e8ca0994fb304475ece7e52aa57a7f3f19775a4b8a59b91337c5b55bd6e6b4fb54a7500fc813967d73d"
+        },
+        "previous_hash": "c882dc9c4524f26ad17926d6d75179f13f0e019e613efb7019e9cd11755c2040",
+        "hash": "33fcfc373c7b4bc77354a839fda6a21130b539c9738bfebe76a64c1a2aaeeba6"
+    },
+    {
+        "index": 14,
+        "timestamp": "2026-01-28 12:51:59",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "Ram",
+            "doctor": "DOC-Roy-001",
+            "action": "WRITE",
+            "sig": "98b7578290848c49530ecf691c1b84ffee7260d1238a90e18de1c18c6f6cddbca92c73f941196200051279a67455e1b359c409d23011561e2fa4aede7e60ea00d0a4512afd968d4b221a209756a1675f24805911511b59b33f4bd7167053a7330c28c4d0ae6b4b613a788412db385dae4bdfae8caf10ce4a0dc57223555a979512be11ce44c99b60ed7fa3bae7a7ad4a8605eb804d1b464b16f578cd32f89e4c04f49dce1ca2ed434fc1259251ad24fb7946cba3c194e25d4ac8b65cf35ccf0f0331e7aa0a89839ce28f05e22394a8f17e3e44478d90b46e97bda256862f73ac51976337924d8923eec1ba928f6ef46c0a65ecb34b771decfe1cb2f59f3cdb7b"
+        },
+        "previous_hash": "33fcfc373c7b4bc77354a839fda6a21130b539c9738bfebe76a64c1a2aaeeba6",
+        "hash": "297dff2967798f65af0c5d8ceb0ce135dea74568a370bfe07e7020e7f163c368"
+    },
+    {
+        "index": 15,
+        "timestamp": "2026-01-28 12:58:06",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "Ram",
+            "doctor": "DOC-Roy-001",
+            "action": "WRITE",
+            "sig": "50d8d707ecd88abcb0ab0f1d40f49d2e439fb35e6105d1ababa0bec30ddb705d34c16961856ba9eff00280e2f96d4d98eee6706769cf2e82d49716bde245f140fcdbb46d499b1eeffed3a52b7034225fb7785b7fec71f60418f63eed6114ab6205aedf0e7332ea88c34f44d7ade8bfd280a4dd15dbc917882280e9ca7726f6136a12093ae9a562d15b1869a6773cf2e417892ca06d8a153d5a55a7b6c22692b0e8c2825553c5851bf0e1cb283d03bd53894bb906a490d480c0af466812c4c7041fe53911326e157133503ea660fc6afb9e2a21fcd7ae96d73cfbda02c0e20c9e9e724a530c7dbff8d32b0545953ce2e64672b157f1bb803500ac8a259d332774"
+        },
+        "previous_hash": "297dff2967798f65af0c5d8ceb0ce135dea74568a370bfe07e7020e7f163c368",
+        "hash": "de14aad7ba4717163f3b34aa01faf0be8772caee709b92241cf227beef19441a"
+    },
+    {
+        "index": 16,
+        "timestamp": "2026-01-28 12:58:35",
+        "data": {
+            "op": "DIAGNOSIS",
+            "patient": "Ram",
+            "doctor": "DOC-Roy-001",
+            "doctor_name": "Dr. S.N Roy (Cardiology)",
+            "condition": "fever",
+            "rx": "med",
+            "sha256_hash": "5ab363209facfb034388b768403d725bb644411bb76d0169bda2cc6dde094841",
+            "signature": "48a6e7f53d8e4548253e8e91bf6d6757eef09b51b33586a490ff87f153b15542ed66dc73d62c67f96b39e51bf22871eed5e93656a60d3f786da51c00533b776656bf833d12251c423aacf72784eb5310f4d3ea6d60f8e9de7e4241c1cd6dd197a04833d1e455c6c58a76d336ad4fcaeae9d9ce861e33051cd0381c81304962c51d75dada102c6d7ca0fb526ee8d6d05f8d4e198be5d1a7208f729323a6523429e4dee37e7c9f48e79e8fdccf63c8cfc10822eb2c2bc90795253d884a5ec243eaa4fab0cb6ea859d58a9abb6d333e36f29e1d80a5f24016d7c46afb586ccab2041a4477f8d2553555a27d9134967a55e7928e6e59e8b5b70b2f6b06273d88d5e7"
+        },
+        "previous_hash": "de14aad7ba4717163f3b34aa01faf0be8772caee709b92241cf227beef19441a",
+        "hash": "ff4157c965c70af96645ca4ae20b6804a9e0890503df335e255d1536ba919a30"
+    },
+    {
+        "index": 17,
+        "timestamp": "2026-01-29 12:12:43",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "Ram",
+            "doctor": "DOC-Mondol-002",
+            "action": "WRITE",
+            "sig": "899907b6c0ef33b478566e180a221dac6d4bbdb438440d6d00d977cc3056d9b5ade38863974b05918245374f802e7d471b3570a565a76bb6d424a8a041805cca559c313170c3c8ba0ad24092bfa2a34b57e874a16e80acd65138d1dece00e0752f706aa7b54f6ae7124f46a288c0dc648b4c30005c3a6cd58d866799e5a158d2b7c954713ee361b595ffb2c3076427c54df2165665c88de628b98784d6df0f958f18fab389c780ba606c6cd2f67d6fa23c702cf64f79d21f7405ac74fdabedc9c61003b699cc0f63e3a9cda06bac3974be3d0d64708f9bcaae2443d57dfe5bfc9766479b87c734bdba2100e668b3c17e00a019db38a390c24a8bfe59ea53a8b5"
+        },
+        "previous_hash": "ff4157c965c70af96645ca4ae20b6804a9e0890503df335e255d1536ba919a30",
+        "hash": "aa6b1d2d82741b6c3cca037deaac951672b3f3f096ffe2be23834d896ab372e6"
+    },
+    {
+        "index": 18,
+        "timestamp": "2026-01-29 12:15:04",
+        "data": {
+            "op": "DIAGNOSIS",
+            "patient": "Ram",
+            "doctor": "DOC-Mondol-002",
+            "doctor_name": "Dr. K.P Mondol (General)",
+            "condition": "Stomach Pain",
+            "rx": "Pan D",
+            "sha256_hash": "559e497d5b80f13d4aa9c11eb48f3d0b6d5ff1d4350808d0e59c047724590c36",
+            "signature": "892633e2aef31192ab5ace855dc361c50ec8c2ea8affb33903d2371b43490933eaaaebeec2c26c36858d2e188bcd79c80a0a342655228fd99255f40d40500931cf033c677e9aee17f11bb0dc5579b984efcec54c3a5da8d5ea463f5c7704567ed586d93acefdb7f908b5610f922d9b309f0f4b158418abfe9b080ce6ad40effcbbcc567e1c4f3ff80701f39febc501c76c6bd01310a1a5ba8545e19797b66232211728fb195166905530517dda39376381fad246db9ee3d4d51ed3418e1def04303874e73b33a8e59371e9044de9d015584f0be62bb3f964ccc15acd1151e9286e5c2a18a54cb0c5ea297d4a602fa2861b723c38ce7c8b32e1b296146b6a6d60"
+        },
+        "previous_hash": "aa6b1d2d82741b6c3cca037deaac951672b3f3f096ffe2be23834d896ab372e6",
+        "hash": "3d017ce3fd04210b988bbb9f6a2b404143e996bfd51f512c974755988b4675d7"
+    },
+    {
+        "index": 19,
+        "timestamp": "2026-01-30 13:56:11",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "123456",
+            "doctor": "12345"
+        },
+        "previous_hash": "3d017ce3fd04210b988bbb9f6a2b404143e996bfd51f512c974755988b4675d7",
+        "hash": "0412167f327e4f4633610d3da4de4b15dd5e654baba167981a6e17a97b191ac9"
+    },
+    {
+        "index": 20,
+        "timestamp": "2026-01-30 14:19:45",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "PT-002",
+            "doctor": "DOC-002"
+        },
+        "previous_hash": "0412167f327e4f4633610d3da4de4b15dd5e654baba167981a6e17a97b191ac9",
+        "hash": "e1a4450f0b8346b4638316ee5e7d95c4882d9cc6088c526f1b86f85ed27948a1"
+    },
+    {
+        "index": 21,
+        "timestamp": "2026-01-30 14:21:12",
+        "data": {
+            "op": "DIAGNOSIS",
+            "doctor": "DOC-002",
+            "doctor_name": "Dr.S.N Roy",
+            "patient": "PT-002",
+            "condition": "Somach",
+            "rx": "",
+            "sha256_hash": "e1b8b78126018c7ea07fc6bbbc74df8dd444bd7b11b0dd786634af0f9264a52e"
+        },
+        "previous_hash": "e1a4450f0b8346b4638316ee5e7d95c4882d9cc6088c526f1b86f85ed27948a1",
+        "hash": "50ea1182fdd7b42c3e0a99ed06255722685c9f45f0e6e06ab932bdb43847b651"
+    },
+    {
+        "index": 22,
+        "timestamp": "2026-01-30 14:21:39",
+        "data": {
+            "op": "DIAGNOSIS",
+            "doctor": "DOC-002",
+            "doctor_name": "Dr.S.N Roy",
+            "patient": "PT-002",
+            "condition": "Stomach pain",
+            "rx": "Pan D",
+            "sha256_hash": "38adda99c24f8e1c3149b5a863978d82097e26c60dc7b8492d79e2596c92b20f"
+        },
+        "previous_hash": "50ea1182fdd7b42c3e0a99ed06255722685c9f45f0e6e06ab932bdb43847b651",
+        "hash": "0b137821f3e68b174bfd661e9c720e371362a8207488d8dbb115f69373de8473"
+    },
+    {
+        "index": 23,
+        "timestamp": "2026-01-30 14:21:40",
+        "data": {
+            "op": "DIAGNOSIS",
+            "doctor": "DOC-002",
+            "doctor_name": "Dr.S.N Roy",
+            "patient": "PT-002",
+            "condition": "Stomach pain",
+            "rx": "Pan D",
+            "sha256_hash": "38adda99c24f8e1c3149b5a863978d82097e26c60dc7b8492d79e2596c92b20f"
+        },
+        "previous_hash": "0b137821f3e68b174bfd661e9c720e371362a8207488d8dbb115f69373de8473",
+        "hash": "3cafb4165350623ad9bd8c9edd511be380d732cda074bee751fc940a445f50b8"
+    },
+    {
+        "index": 24,
+        "timestamp": "2026-02-03 12:29:08",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "PT-003",
+            "doctor": "DOC-004"
+        },
+        "previous_hash": "3cafb4165350623ad9bd8c9edd511be380d732cda074bee751fc940a445f50b8",
+        "hash": "1914487755ad3a3b481e7666f02469008268d1776f3474b9009e20543faaf3bc"
+    },
+    {
+        "index": 25,
+        "timestamp": "2026-02-03 12:31:33",
+        "data": {
+            "op": "DIAGNOSIS",
+            "doctor": "DOC-004",
+            "doctor_name": "Dr. K.P Mondol",
+            "patient": "PT-003",
+            "condition": "Fever",
+            "rx": "Paracetamol",
+            "sha256_hash": "9a565002a1e12865f022c700dac17ce108b333ec936cd338f1159845479195b3"
+        },
+        "previous_hash": "1914487755ad3a3b481e7666f02469008268d1776f3474b9009e20543faaf3bc",
+        "hash": "2992341985fc83bc0eda7726b768622682d15f171afa8fb43f06de513fcfa795"
+    },
+    {
+        "index": 26,
+        "timestamp": "2026-02-03 12:50:35",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "PT-003",
+            "doctor": "DOC-004"
+        },
+        "previous_hash": "2992341985fc83bc0eda7726b768622682d15f171afa8fb43f06de513fcfa795",
+        "hash": "b7c25cb7373105c2b8b2457fb7c12bb316933f8763e24d8a6bb57f0365896ea7"
+    },
+    {
+        "index": 27,
+        "timestamp": "2026-02-03 12:52:35",
+        "data": {
+            "op": "DIAGNOSIS",
+            "doctor": "DOC-004",
+            "doctor_name": "Dr. K.P Mondol",
+            "patient": "PT-003",
+            "condition": "Stomach Pain",
+            "rx": "Pan D",
+            "sha256_hash": "559e497d5b80f13d4aa9c11eb48f3d0b6d5ff1d4350808d0e59c047724590c36"
+        },
+        "previous_hash": "b7c25cb7373105c2b8b2457fb7c12bb316933f8763e24d8a6bb57f0365896ea7",
+        "hash": "ed28e0d3fd410af624696a92056e04c9ee3bcbe617bc1ab4cbdb7e166850d9aa"
+    },
+    {
+        "index": 28,
+        "timestamp": "2026-04-08 22:10:31",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "PT-002",
+            "doctor": "DOC-004",
+            "reencryption_key": {
+                "seed": "fHdJNOWMPDuP7KLBApM2P1wIk9YjgNrLwNoH9krQpuc=",
+                "encrypted_seed": "AWDktPLvLrd1tIhlbdHeJoZhPbgjfhRVsRAEg1HM+aslpPLZNBJf06f3oU/Mn3dynPzmvOi0+riTF/5U4sirTqiFYOqVvHHVmfo7ELlB+HpWIXCpY50QHXyQANg1pVn5T3IAyEATJ4dc8WrkUzRTF0YR6PLJj1f361giI4hMK7DYR7kEjV3BnAEUnTWmFgLt2igxrrdakbBukPDxIGGb0beJxlzAj/SKkHuO9Hhgcxgek563MovrUZlN0C9sDcS7CZDGluHv+Y8tnaZEioiTa6NG0vaUMBLqAt4b4JEyYmwxQ/kMOHKFMsFog7eqLQuMjAv7XGko9XhHiAiH/owJlA==",
+                "type": "rsa_pre"
+            }
+        },
+        "previous_hash": "ed28e0d3fd410af624696a92056e04c9ee3bcbe617bc1ab4cbdb7e166850d9aa",
+        "hash": "ffd10d3d524b1620571d815593176d43b7d34bb583403651f6dc3c8bfc6e9783"
+    },
+    {
+        "index": 29,
+        "timestamp": "2026-04-08 22:10:42",
+        "data": {
+            "op": "REVOKE_ACCESS",
+            "patient": "PT-002",
+            "doctor": "DOC-002"
+        },
+        "previous_hash": "ffd10d3d524b1620571d815593176d43b7d34bb583403651f6dc3c8bfc6e9783",
+        "hash": "52e1adc0cd9f156c38af4a509525f5de58fdf9a7a6fa701008fb7132a24b768f"
+    },
+    {
+        "index": 30,
+        "timestamp": "2026-04-09 12:00:00",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "PT-002",
+            "doctor": "DOC-002",
+            "reencryption_key": {
+                "seed": "hjJQXrC2bXX9x6nT1GOjAfc2QF5D/wo4TSC9dHrypbU=",
+                "encrypted_seed": "X13fZxq5zI7uM3RhL5h6x1ZuFWZ840CzrypZ6wcNaPGHfDBqyZYgaM7f0Vr18ig1c7YCaRhCwYg3lJd5N64SL8Wv4V+9W6bE+YV260c4sWTkmo51Tknyn+X5SDrmjyw/KVVnm6Yb0iTEslWyUz5UAqdtf/fpQkQYSCI/8t1LTa5NYmHg0fp50zAq2JZtDkIuMAhi7PkTlaWShyOW7wTboazAwbu2psRu0MC/ttl7I2X4Z3apDSkzD24teZIgSQ6v6H0YAsZcaJBv1CkF23kFrwOmfasLHwETlGoNcFRH07wwrkAjm27uyM9Db4gs3UPsCKPkMzoDCk1We8S9UxQb/A==",
+                "type": "rsa_pre"
+            }
+        },
+        "previous_hash": "52e1adc0cd9f156c38af4a509525f5de58fdf9a7a6fa701008fb7132a24b768f",
+        "hash": "dd21c8b7677da75da6d108837a39029bbc72f78d333c4c5e2d982c810371ebb5"
+    },
+    {
+        "index": 31,
+        "timestamp": "2026-04-09 12:00:05",
+        "data": {
+            "op": "REVOKE_ACCESS",
+            "patient": "PT-002",
+            "doctor": "DOC-004"
+        },
+        "previous_hash": "dd21c8b7677da75da6d108837a39029bbc72f78d333c4c5e2d982c810371ebb5",
+        "hash": "75d6ae94192dc191989f889e7adb56a293351e196065f51b4e7d6afb1af3c2ba"
+    },
+    {
+        "index": 32,
+        "timestamp": "2026-04-09 12:08:34",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "PT-002",
+            "doctor": "DOC-004",
+            "reencryption_key": {
+                "seed": "I44/x8d808JZImhv8JayvFjmLE1FhB4oZ+Zm03IiXrM=",
+                "encrypted_seed": "EaH2mBC0evZN8JMAZJXWFfBk/pikUvpoSxECPD/Y9bw6EpPtX/uwTR/5S+k/eZkRUJeAxhPH/DztaPdM3bIRHgegznOMR7GNyY/VmMOZZDcIuRSohu65HUXllwkeG1V+OL/40vTfocOu4AzXZa4lLyP49SkIHApVFpzBsyjXgQa6uFGkPzIvLmgNYkzmAUoL6b+7RlcZ5F/GMJrJ61OUSstrsES5dmp1K7o7fX2eQbY2duyEUIYBeOebPb0AIf3YbIb9xpI44FPpP6jrZS2wf9kvKkgRrVQnxnE70jLCS0HBTRxkMsYCaaYODzsdQypMtnM8zFcdPy6iX6cxSfRIoQ==",
+                "type": "rsa_pre"
+            }
+        },
+        "previous_hash": "75d6ae94192dc191989f889e7adb56a293351e196065f51b4e7d6afb1af3c2ba",
+        "hash": "2f82057e0d00889325b6f89e3d99864ecd55a073e02e131630b62a57d1493ea3"
+    },
+    {
+        "index": 33,
+        "timestamp": "2026-04-10 15:38:13",
+        "data": {
+            "op": "UPLOAD_RECORD",
+            "patient": "PT-002",
+            "file_name": "Record_23.pdf",
+            "mime_type": "application/pdf",
+            "file_data": "JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAyIDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVjb2RlIC9MZW5ndGggMzE2Pj4Kc3RyZWFtCnicbZHNTsMwEITvfYo9wqHb9fovyRFCJZCAiuYFojSlRm1SJZEQb09D4vy0HMf+ZnbsZXhZEGoL34uHBFZrAcIgESR7eEraI2EDDBXYULVUsoO713znHg+pK+B9v3eZS4+wqfI6q9y5cWVxD8lX712tGQTP4hQTGgtWhkhdXJw2eQRMbJYklpJAqIhFpGgSJAWKEKwgtLIzlVlTVhHEFW7xDT7KnxvaBIwy+KM3aePyooHnOIJNsiRiT3OAUoPRFo2EE/SSQ+QQjrCFq3ttDIbS6xaYn4zEGDEWurw5MF19l34WZe3qCLZNeUqzA5wvH3rVqssYWhG1i5gO9YDXI7GYeXyEtoyGZhEe6PWEGHrrQKIYV5+l7ZbraF62Nw6TlELW00kD4PVIzCz/AWMVrTDgfqcFxL7DL8rmok0KZW5kc3RyZWFtCmVuZG9iagoxIDAgb2JqCjw8L1R5cGUgL1BhZ2VzCi9LaWRzIFszIDAgUiBdCi9Db3VudCAxCi9NZWRpYUJveCBbMCAwIDU5NS4yOCA4NDEuODldCj4+CmVuZG9iago1IDAgb2JqCjw8L1R5cGUgL0ZvbnQKL0Jhc2VGb250IC9IZWx2ZXRpY2EtQm9sZAovU3VidHlwZSAvVHlwZTEKL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKPj4KZW5kb2JqCjYgMCBvYmoKPDwvVHlwZSAvRm9udAovQmFzZUZvbnQgL0hlbHZldGljYQovU3VidHlwZSAvVHlwZTEKL0VuY29kaW5nIC9XaW5BbnNpRW5jb2RpbmcKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1Byb2NTZXQgWy9QREYgL1RleHQgL0ltYWdlQiAvSW1hZ2VDIC9JbWFnZUldCi9Gb250IDw8Ci9GMSA1IDAgUgovRjIgNiAwIFIKPj4KL1hPYmplY3QgPDwKPj4KPj4KZW5kb2JqCjcgMCBvYmoKPDwKL1Byb2R1Y2VyIChQeUZQREYgMS43LjIgaHR0cDovL3B5ZnBkZi5nb29nbGVjb2RlLmNvbS8pCi9DcmVhdGlvbkRhdGUgKEQ6MjAyNjA0MDkxMjE3MTIpCj4+CmVuZG9iago4IDAgb2JqCjw8Ci9UeXBlIC9DYXRhbG9nCi9QYWdlcyAxIDAgUgovT3BlbkFjdGlvbiBbMyAwIFIgL0ZpdEggbnVsbF0KL1BhZ2VMYXlvdXQgL09uZUNvbHVtbgo+PgplbmRvYmoKeHJlZgowIDkKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwNDczIDAwMDAwIG4gCjAwMDAwMDA3NTcgMDAwMDAgbiAKMDAwMDAwMDAwOSAwMDAwMCBuIAowMDAwMDAwMDg3IDAwMDAwIG4gCjAwMDAwMDA1NjAgMDAwMDAgbiAKMDAwMDAwMDY2MSAwMDAwMCBuIAowMDAwMDAwODcxIDAwMDAwIG4gCjAwMDAwMDA5ODAgMDAwMDAgbiAKdHJhaWxlcgo8PAovU2l6ZSA5Ci9Sb290IDggMCBSCi9JbmZvIDcgMCBSCj4+CnN0YXJ0eHJlZgoxMDgzCiUlRU9GCg==",
+            "timestamp": "2026-04-10 15:38:13"
+        },
+        "previous_hash": "2f82057e0d00889325b6f89e3d99864ecd55a073e02e131630b62a57d1493ea3",
+        "hash": "520cdf862ab8f836ac615cd7fbea6ede5301882618825a81ac90097dc70ce432"
+    },
+    {
+        "index": 34,
+        "timestamp": "2026-04-10 16:09:39",
+        "data": {
+            "op": "REVOKE_ACCESS",
+            "patient": "PT-002",
+            "doctor": "DOC-002"
+        },
+        "previous_hash": "520cdf862ab8f836ac615cd7fbea6ede5301882618825a81ac90097dc70ce432",
+        "hash": "3655bb044d7e227be880d68f7f43550227110c655f16f0ebbf593b5bb825a7e5"
+    },
+    {
+        "index": 35,
+        "timestamp": "2026-04-10 19:39:13",
+        "data": {
+            "op": "ASSIGN_NURSE",
+            "nurse": "NRS-001",
+            "patient": "PT-002"
+        },
+        "previous_hash": "3655bb044d7e227be880d68f7f43550227110c655f16f0ebbf593b5bb825a7e5",
+        "hash": "5f33b5a136bbf39377e6e2ad9fda563e1ad7bdf18d1d0b98d1e510e7ab2c7509"
+    },
+    {
+        "index": 36,
+        "timestamp": "2026-04-11 00:49:39",
+        "data": {
+            "op": "NURSE_NOTE",
+            "nurse": "NRS-001",
+            "nurse_name": "Priya sen",
+            "patient": "PT-002",
+            "note": "STABLE CONDITION",
+            "timestamp": "2026-04-11 00:49:39"
+        },
+        "previous_hash": "5f33b5a136bbf39377e6e2ad9fda563e1ad7bdf18d1d0b98d1e510e7ab2c7509",
+        "hash": "40c1a2f49927845af4aa0d9fce5b4607be2887fb0e15533761d7f37069fd0079"
+    },
+    {
+        "index": 37,
+        "timestamp": "2026-04-11 01:03:05",
+        "data": {
+            "op": "GRANT_ACCESS",
+            "patient": "PT-002",
+            "doctor": "DOC-002",
+            "reencryption_key": {
+                "seed": "upeEfmGKPIkbhGN9aUeZnIRbKwiX/aTQVfOzIOHqTUQ=",
+                "encrypted_seed": "Joj7nYWYpSbn/lw+5WtFE1LaTUtLiIKwn8KgPz6GJELFd2xJ3wrCOlzxL+KU1RxLFq/x8KlyR+y/mIV2WtHEqTAAiUI8KNzPNGMhZzEuSLjxwqF5ohgsy5KDVlQWo3KvFZZg0K655qC/lIj6Rqd/4vzuUFp4s8+n0eQ5SgOvSfjNrQw63KsXKKd3lWIXj0epldUqpZMAnnFexD/2HaqcyTJYL5T7Ydmb3yIZg3sBphWFiT80i+CK+w1I7ds4M8tFp9mYN03tBLzLOLr5mwCOra1svF2rIjvVmyxRnxSjbOD3eDTZIwnA4tnKj/C1WOPyNFeQwBL2rc8rgwiiCC9TVw==",
+                "type": "rsa_pre"
+            }
+        },
+        "previous_hash": "40c1a2f49927845af4aa0d9fce5b4607be2887fb0e15533761d7f37069fd0079",
+        "hash": "a940159aebfe08ec6b84d28204acfb2e8abda6900a4f82b6705d77a1b66694cc"
+    },
+    {
+        "index": 38,
+        "timestamp": "2026-04-11 01:14:37",
+        "data": {
+            "op": "DIAGNOSIS",
+            "doctor": "DOC-002",
+            "doctor_name": "Dr.S.N Roy",
+            "patient": "PT-002",
+            "condition": "FEVER",
+            "rx": "PARACETAMOL",
+            "sha256_hash": "fd61a5fd85c1112e5221320a0ea1376dfe4233a09e57c5beaac0857ef5639a1e",
+            "encrypted": false
+        },
+        "previous_hash": "a940159aebfe08ec6b84d28204acfb2e8abda6900a4f82b6705d77a1b66694cc",
+        "hash": "a6267dbc78aeb0aabb7821e6802c7b80a854b155683f71f3d2556756704e2878"
+    },
+    {
+        "index": 39,
+        "timestamp": "2026-04-13 23:01:01",
+        "data": {
+            "op": "ASSIGN_NURSE",
+            "nurse": "NRS-002",
+            "patient": "PT-004"
+        },
+        "previous_hash": "a6267dbc78aeb0aabb7821e6802c7b80a854b155683f71f3d2556756704e2878",
+        "hash": "667a3fad03f32d020027a8c3d4220f84e73aa41df051b7ad317369f7bb6f58e4"
+    },
+    {
+        "index": 40,
+        "timestamp": "2026-04-14 00:37:11",
+        "data": {
+            "op": "UPLOAD_RECORD",
+            "patient": "PT-002",
+            "file_name": "Record_38 (1).pdf",
+            "mime_type": "application/pdf",
+            "file_path": "patient_uploads\\PT-002_20260414_003711_Record_38_(1).pdf",
+            "timestamp": "2026-04-14 00:37:11"
+        },
+        "previous_hash": "667a3fad03f32d020027a8c3d4220f84e73aa41df051b7ad317369f7bb6f58e4",
+        "hash": "3c0e7464f39a45fe90552aff750051baf7f5daa5811d18a4b17f7f3dd59ecf28"
+    },
+    {
+        "index": 41,
+        "timestamp": "2026-04-14 00:52:12",
+        "data": {
+            "op": "UPLOAD_RECORD",
+            "patient": "PT-006",
+            "file_name": "Record_38 (1).pdf",
+            "mime_type": "application/pdf",
+            "file_path": "patient_uploads\\PT-006_20260414_005212_Record_38_(1).pdf",
+            "timestamp": "2026-04-14 00:52:12"
+        },
+        "previous_hash": "3c0e7464f39a45fe90552aff750051baf7f5daa5811d18a4b17f7f3dd59ecf28",
+        "hash": "84962600ce30a624f04b1af6523c82fca2d3cae822f7a1a6f5630bf1d0413ec2"
+    },
+    {
+        "index": 42,
+        "timestamp": "2026-05-12 19:58:57",
+        "data": {
+            "op": "EMERGENCY_ACCESS",
+            "patient": "PT-005",
+            "doctor": "DOC-002",
+            "authority": "AUTH-001",
+            "reason": "Serious Health Concern",
+            "duration_hours": 4,
+            "expires_at": "2026-05-12 23:58:57",
+            "timestamp": "2026-05-12 19:58:57"
+        },
+        "previous_hash": "84962600ce30a624f04b1af6523c82fca2d3cae822f7a1a6f5630bf1d0413ec2",
+        "hash": "c817bdbb490a6a88509961ba20a7f35e10435b669fb3dacdcac46aeef237c938"
+    },
+    {
+        "index": 43,
+        "timestamp": "2026-05-12 20:11:38",
+        "data": {
+            "op": "EMERGENCY_ACCESS",
+            "patient": "PT-003",
+            "doctor": "12345",
+            "authority": "AUTH-001",
+            "reason": "Unconscious",
+            "duration_hours": 4,
+            "expires_at": "2026-05-13 00:11:38",
+            "timestamp": "2026-05-12 20:11:38"
+        },
+        "previous_hash": "c817bdbb490a6a88509961ba20a7f35e10435b669fb3dacdcac46aeef237c938",
+        "hash": "5ce59a08f96b20b15ee557d1560de233d58aced2477848ed60c50f596ac4c3fd"
+    },
+    {
+        "index": 44,
+        "timestamp": "2026-05-26 11:33:53",
+        "data": {
+            "op": "EMERGENCY_ACCESS",
+            "patient": "PT-004",
+            "doctor": "DOC-002",
+            "authority": "AUTH-001",
+            "reason": "UNCONUSIOUS",
+            "duration_hours": 4,
+            "expires_at": "2026-05-26 15:33:53",
+            "timestamp": "2026-05-26 11:33:53"
+        },
+        "previous_hash": "5ce59a08f96b20b15ee557d1560de233d58aced2477848ed60c50f596ac4c3fd",
+        "hash": "82ca68758818bc3a14922f6eee03fb17674faa8e07ae5d67ab504be8791ff291"
+    }
+]
